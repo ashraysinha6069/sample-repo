@@ -9,3 +9,5 @@ the utter basics
 From these basic functions you can create your own flavour of a game engine.
 
 This is built from the article here: http://louisstow.tumblr.com/post/19103446204/unobtrusive-game-engines
+
+#bom-diggy-diggy-bom
